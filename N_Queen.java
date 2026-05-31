@@ -1,3 +1,4 @@
+//Hard problem
 class Solution {
     public boolean isSafe(char board[][],int row,int col)
     {
